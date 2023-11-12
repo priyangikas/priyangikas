@@ -1,0 +1,25 @@
+body  {
+    background-color: blueviolet;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+{
+    padding:0
+    margin:0
+    box=sizing: border-box;
+}
+heading{
+    text-decoration-thickness: ;
+    align-items: center;
+}
+.heading img{
+    width: ;170px
+    heigth:170px;
+    margin: right 20px;
+}
+#firsthead{
+    color: blue;
+    font-size: 25px;
+}
